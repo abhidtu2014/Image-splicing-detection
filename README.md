@@ -1,4 +1,5 @@
 # Image-splicing-detection
 Project is about detecting spliced images using extracted features of image and SVM classifier.
 
-This is a research project. so, can't upload the files :p. 
+This repository includes various image features that can be used to detect image splicing and two research papers.
+It doesn't includes the fitness_svm matlab file as this is a research project.
